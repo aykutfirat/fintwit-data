@@ -1,72 +1,56 @@
 # Finance Gurus Cashtag Analysis
 
-**Last Updated:** 2025-07-05 14:37:21
+**Last Updated:** 2025-07-05 14:38:50
 
-**Total Tweets:** 281
-**Total Cashtags:** 147
-**Unique Cashtags:** 60
+**Total Tweets:** 183
+**Total Cashtags:** 57
+**Unique Cashtags:** 44
 
 ## Cashtag Frequencies
 
 | Cashtag | Count |
 |---------|-------|
-| $SPY | 9 |
-| $NVDA | 6 |
-| $TSLA | 5 |
-| $AMZN | 4 |
-| $BTC | 4 |
-| $META | 3 |
-| $CIFR | 3 |
-| $ASTS | 3 |
-| $BKKT | 3 |
-| $GOOG | 3 |
-| $BULL | 3 |
-| $UPXI | 3 |
-| $GRNY | 3 |
-| $DJT | 3 |
-| $WM | 2 |
-| $SPI | 2 |
-| $DGRO | 2 |
-| $CNC | 2 |
-| $CI | 2 |
-| $HUM | 2 |
-| $UNH | 2 |
-| $UPRO | 2 |
-| $AMT | 2 |
-| $SJM | 2 |
-| $GS | 2 |
-| $MSOS | 2 |
-| $KURA | 2 |
-| $RPTX | 2 |
-| $TCRX | 2 |
-| $IOVA | 2 |
-| $ACRV | 2 |
-| $NUVB | 2 |
-| $RCKT | 2 |
-| $IDYA | 2 |
-| $DCTH | 2 |
-| $RYTM | 2 |
-| $TARS | 2 |
-| $ARQT | 2 |
-| $ASND | 2 |
-| $PLTR | 2 |
-| $IAI | 2 |
-| $VYM | 2 |
+| $SPY | 8 |
 | $ETH | 2 |
-| $AAPL | 2 |
-| $BMNR | 2 |
-| $SMH | 2 |
-| $AMD | 2 |
-| $GOOGL | 2 |
-| $MSTX | 2 |
-| $SMCI | 2 |
-| $SRUUF | 2 |
-| $SOFI | 2 |
-| $MSTR | 2 |
-| $QQQ | 2 |
-| $RSPT | 2 |
-| $BBAI | 2 |
-| $MSFT | 2 |
-| $NFLX | 2 |
-| $DOCN | 2 |
-| $XLI | 2 |
+| $CIFR | 2 |
+| $NVDA | 2 |
+| $TSLA | 2 |
+| $FCX | 2 |
+| $CCL | 2 |
+| $XBI | 1 |
+| $GEO | 1 |
+| $TTMI | 1 |
+| $uso | 1 |
+| $uco | 1 |
+| $bno | 1 |
+| $WLFI | 1 |
+| $AAPL | 1 |
+| $NQ | 1 |
+| $NEU | 1 |
+| $SPX | 1 |
+| $KFS | 1 |
+| $MARA | 1 |
+| $IREN | 1 |
+| $RIOT | 1 |
+| $IONQ | 1 |
+| $AMZN | 1 |
+| $AMD | 1 |
+| $GOOGL | 1 |
+| $MSTX | 1 |
+| $SMCI | 1 |
+| $BRZE | 1 |
+| $BRK | 1 |
+| $ARKK | 1 |
+| $WYNN | 1 |
+| $SNOW | 1 |
+| $GRNY | 1 |
+| $PMAX | 1 |
+| $mfi | 1 |
+| $cmps | 1 |
+| $MFI | 1 |
+| $JBDI | 1 |
+| $bmnr | 1 |
+| $bull | 1 |
+| $PLTR | 1 |
+| $HOOD | 1 |
+| $VKTX | 1 |
