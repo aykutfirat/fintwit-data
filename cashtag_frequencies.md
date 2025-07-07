@@ -1,56 +1,109 @@
 # Finance Gurus Cashtag Analysis
 
-**Last Updated:** 2025-07-05 14:38:50
+**Last Updated:** 2025-07-07 11:12:22
 
-**Total Tweets:** 183
-**Total Cashtags:** 57
-**Unique Cashtags:** 44
+**Total Tweets:** 287
+**Total Cashtags:** 186
+**Unique Cashtags:** 97
 
 ## Cashtag Frequencies
 
 | Cashtag | Count |
 |---------|-------|
+| $TSLA | 18 |
+| $AMZN | 9 |
 | $SPY | 8 |
-| $ETH | 2 |
-| $CIFR | 2 |
-| $NVDA | 2 |
-| $TSLA | 2 |
-| $FCX | 2 |
-| $CCL | 2 |
-| $XBI | 1 |
-| $GEO | 1 |
-| $TTMI | 1 |
-| $uso | 1 |
-| $uco | 1 |
-| $bno | 1 |
-| $WLFI | 1 |
-| $AAPL | 1 |
-| $NQ | 1 |
-| $NEU | 1 |
-| $SPX | 1 |
-| $KFS | 1 |
-| $MARA | 1 |
-| $IREN | 1 |
-| $RIOT | 1 |
+| $HOOD | 8 |
+| $QQQ | 6 |
+| $NVDA | 5 |
+| $SPX | 4 |
+| $AMD | 4 |
+| $PLTR | 4 |
+| $AI | 4 |
+| $COIN | 4 |
+| $IWM | 3 |
+| $SOFI | 3 |
+| $MSFT | 3 |
+| $GOOGL | 3 |
+| $ORCL | 3 |
+| $JPM | 3 |
+| $ZACK | 3 |
+| $INTC | 2 |
+| $AAPL | 2 |
+| $META | 2 |
+| $CRM | 2 |
+| $TSM | 2 |
+| $DAL | 2 |
+| $PMAX | 2 |
+| $QBTS | 2 |
+| $BTC | 2 |
+| $CAN | 2 |
+| $VKTX | 2 |
+| $AMPX | 2 |
+| $DIA | 1 |
+| $VIX | 1 |
+| $XLK | 1 |
+| $SG | 1 |
+| $NFLX | 1 |
+| $ASML | 1 |
+| $ADBE | 1 |
+| $CRWV | 1 |
+| $BKKT | 1 |
+| $AVGO | 1 |
+| $ETH | 1 |
+| $ZETA | 1 |
+| $CHKP | 1 |
+| $S | 1 |
+| $PENG | 1 |
+| $LEVI | 1 |
+| $CAG | 1 |
+| $KRUS | 1 |
+| $PSMT | 1 |
+| $WDFC | 1 |
+| $SAR | 1 |
+| $BYRN | 1 |
+| $AZZ | 1 |
+| $SMPL | 1 |
+| $HELE | 1 |
+| $AEHR | 1 |
+| $ETWO | 1 |
+| $NTIC | 1 |
+| $VIST | 1 |
+| $BSET | 1 |
+| $BBAI | 1 |
+| $RBLX | 1 |
+| $CFLT | 1 |
+| $GLD | 1 |
+| $MS | 1 |
+| $GOOG | 1 |
+| $CAVA | 1 |
+| $UNH | 1 |
+| $USDG | 1 |
+| $MSTR | 1 |
+| $NET | 1 |
+| $HIMS | 1 |
+| $OSCR | 1 |
+| $RKLB | 1 |
 | $IONQ | 1 |
-| $AMZN | 1 |
-| $AMD | 1 |
-| $GOOGL | 1 |
-| $MSTX | 1 |
-| $SMCI | 1 |
-| $BRZE | 1 |
-| $BRK | 1 |
-| $ARKK | 1 |
-| $WYNN | 1 |
-| $SNOW | 1 |
-| $GRNY | 1 |
-| $PMAX | 1 |
-| $mfi | 1 |
-| $cmps | 1 |
-| $MFI | 1 |
-| $JBDI | 1 |
-| $bmnr | 1 |
-| $bull | 1 |
-| $PLTR | 1 |
-| $HOOD | 1 |
-| $VKTX | 1 |
+| $OKLO | 1 |
+| $FLS | 1 |
+| $EOSE | 1 |
+| $tsla | 1 |
+| $GNS | 1 |
+| $QNTM | 1 |
+| $SAIH | 1 |
+| $CMPS | 1 |
+| $IAT | 1 |
+| $PNFP | 1 |
+| $SNV | 1 |
+| $MTB | 1 |
+| $DDOG | 1 |
+| $BTCUSD | 1 |
+| $BBWI | 1 |
+| $WM | 1 |
+| $UBER | 1 |
+| $APLD | 1 |
+| $SHOP | 1 |
+| $LLY | 1 |
+| $SSK | 1 |
+| $SOL | 1 |
